@@ -1,4 +1,4 @@
-FROM sathishsk/wzmlr:latest
+FROM sathishsk/anasty:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
