@@ -1,4 +1,4 @@
-FROM sathishsk/luna:latest
+FROM sathishsk/music:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
